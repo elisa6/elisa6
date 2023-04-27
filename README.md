@@ -10,6 +10,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elisa6&theme=synthwave&title_color=f9f0ff&text_color=ffffff&background=170033&hide_border=true&locale=en&layout=compact" alt="elisa6" /></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elisa6&show_icons=true&theme=dark&count_private=true&include_all_commits=true&title_color=fcf0ff&text_color=ffffff&bg_color=1c0038&hide_border=true&locale=en&card_width=250" alt="elisa6" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elisa6&show_icons=true&theme=dark&count_private=true&include_all_commits=true&title_color=fcf0ff&text_color=ffffff&bg_color=1c0038&hide_border=true&locale=en&card_width=250" alt="elisa6" /></p>
   
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elisa6&show_icons=true&theme=dark&title_color=f9f0ff&text_color=ffffff&bg_color=170033&hide_border=true&locale=en&layout=compact" alt="elisa6" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elisa6&show_icons=true&theme=dark&title_color=f9f0ff&text_color=ffffff&bg_color=170033&hide_border=true&locale=en&layout=compact" alt="elisa6" /></p>
